@@ -1,0 +1,23 @@
+.SearchController {
+    width: 100%;
+}
+.srh-inpt {
+    margin: 5% 0;
+}
+.repo {
+    margin: 3% 0;
+}
+td,th {
+    width: 12%;
+    overflow: height;
+    vertical-align: middle;
+    align-content: center;
+}
+@media (max-width: 1000px) {
+  
+}
+@media (max-width: 600px) {
+    .hidden-xs {
+        display: none;
+    }        
+  }
