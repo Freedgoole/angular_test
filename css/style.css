@@ -19,5 +19,8 @@ td,th {
 @media (max-width: 600px) {
     .hidden-xs {
         display: none;
-    }        
+    }
+    .srh-inpt {
+        margin: 70px 0 5% 0;
+    }      
   }
