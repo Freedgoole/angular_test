@@ -14,12 +14,11 @@ td,th {
     align-content: center;
 }
 @media (max-width: 1000px) {
-  
+   .hidden-xs {
+        display: none;
+    } 
 }
 @media (max-width: 600px) {
-    .hidden-xs {
-        display: none;
-    }
     .srh-inpt {
         margin: 70px 0 5% 0;
     }      
